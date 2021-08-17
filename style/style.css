@@ -1,0 +1,60 @@
+.images img{
+    margin-left: 490px;
+    margin-top: 100px;
+    width: 200px;
+    height: 180px;
+}
+
+.cajas{
+    text-align: center;   
+}
+.cajas .num1{
+    text-align: center;
+    font-weight: bold;
+    border-style: gray;
+    height: 25px;
+    width: 35%;
+    border-radius: 10px;
+    font-size: 14px;
+}
+
+.caja {
+    text-align: center;
+}
+
+button{
+    text-align: center;
+    background-color: chartreuse;
+    font-weight: bold;
+    border: none;
+    height: 30px;
+    width: 25%;
+    border-radius: 10px;
+}
+
+.caja .moneda1{
+    text-align: center;
+    background-color: rgb(197, 197, 197);
+    font-weight: bold;
+    border: none;
+    height: 30px;
+    width: 25%;
+    border-radius: 10px;
+}
+
+.alert{
+    text-align: center;
+}
+
+.alert .num3{
+    text-align: center;
+    background-color: pink;
+    font-weight: bolder;
+    border-color: white;
+    height: 100px;
+    width: 90%;
+    border-radius: 10px;
+    font-size: 20px;
+    color: white;
+    display: none;
+}
